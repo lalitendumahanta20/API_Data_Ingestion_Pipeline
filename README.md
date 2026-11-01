@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reliable E-Commerce API Data Ingestion Pipeline
 
 ## 1. Project Overview
@@ -428,3 +429,7 @@ This project demonstrates an end-to-end API data ingestion workflow using Python
 It focuses on reliable extraction, data quality, incremental processing, duplicate prevention, failure handling, and monitoring.
 
 The project can be extended into a production-grade data engineering pipeline with improved orchestration, monitoring, retry mechanisms, and cloud integration.
+=======
+# API_Data_Ingestion_Pipeline
+Reliable E-Commerce API Data Ingestion Pipeline using Python, FastAPI and SQL Server
+>>>>>>> 956a88b4dcdf6e4f5d3baa0255f4502448cf5f84
