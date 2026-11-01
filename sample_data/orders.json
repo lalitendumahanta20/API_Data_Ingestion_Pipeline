@@ -1,0 +1,1602 @@
+[
+  {
+    "order_id": 10,
+    "customer_id": 1,
+    "order_amount": 120.22,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 11,
+    "customer_id": 1,
+    "order_amount": 282.28,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 20,
+    "customer_id": 2,
+    "order_amount": 739.11,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 21,
+    "customer_id": 2,
+    "order_amount": 743.26,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 30,
+    "customer_id": 3,
+    "order_amount": 594.59,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 31,
+    "customer_id": 3,
+    "order_amount": 39.5,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 40,
+    "customer_id": 4,
+    "order_amount": 510.3,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 41,
+    "customer_id": 4,
+    "order_amount": 565.63,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 50,
+    "customer_id": 5,
+    "order_amount": 704.31,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 51,
+    "customer_id": 5,
+    "order_amount": 228.24,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 60,
+    "customer_id": 6,
+    "order_amount": 811.34,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 61,
+    "customer_id": 6,
+    "order_amount": 761.22,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 70,
+    "customer_id": 7,
+    "order_amount": 428.39,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 71,
+    "customer_id": 7,
+    "order_amount": 163.92,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 80,
+    "customer_id": 8,
+    "order_amount": 101.82,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 81,
+    "customer_id": 8,
+    "order_amount": 365.39,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 90,
+    "customer_id": 9,
+    "order_amount": 271.88,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 91,
+    "customer_id": 9,
+    "order_amount": 732.43,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 100,
+    "customer_id": 10,
+    "order_amount": 973.38,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 101,
+    "customer_id": 10,
+    "order_amount": 88.01,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 110,
+    "customer_id": 11,
+    "order_amount": 622.33,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 111,
+    "customer_id": 11,
+    "order_amount": 581.58,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 120,
+    "customer_id": 12,
+    "order_amount": 55.37,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 121,
+    "customer_id": 12,
+    "order_amount": 775.34,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 130,
+    "customer_id": 13,
+    "order_amount": 867.82,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 131,
+    "customer_id": 13,
+    "order_amount": 285.19,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 140,
+    "customer_id": 14,
+    "order_amount": 171.03,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 141,
+    "customer_id": 14,
+    "order_amount": 217.41,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 150,
+    "customer_id": 15,
+    "order_amount": 937.29,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 151,
+    "customer_id": 15,
+    "order_amount": 80.69,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 160,
+    "customer_id": 16,
+    "order_amount": 538.8,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 161,
+    "customer_id": 16,
+    "order_amount": 171.77,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 170,
+    "customer_id": 17,
+    "order_amount": 989.63,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 171,
+    "customer_id": 17,
+    "order_amount": 691.28,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 180,
+    "customer_id": 18,
+    "order_amount": 331.04,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 181,
+    "customer_id": 18,
+    "order_amount": 236.76,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 190,
+    "customer_id": 19,
+    "order_amount": 407.15,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 191,
+    "customer_id": 19,
+    "order_amount": 218.87,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 200,
+    "customer_id": 20,
+    "order_amount": 220.5,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 201,
+    "customer_id": 20,
+    "order_amount": 401.68,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 210,
+    "customer_id": 21,
+    "order_amount": 151.44,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 211,
+    "customer_id": 21,
+    "order_amount": 254.16,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 220,
+    "customer_id": 22,
+    "order_amount": 270.11,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 221,
+    "customer_id": 22,
+    "order_amount": 434.15,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 230,
+    "customer_id": 23,
+    "order_amount": 368.38,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 231,
+    "customer_id": 23,
+    "order_amount": 514.43,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 240,
+    "customer_id": 24,
+    "order_amount": 862.49,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 241,
+    "customer_id": 24,
+    "order_amount": 631.17,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 250,
+    "customer_id": 25,
+    "order_amount": 600.44,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 251,
+    "customer_id": 25,
+    "order_amount": 387.8,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 260,
+    "customer_id": 26,
+    "order_amount": 258.9,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 261,
+    "customer_id": 26,
+    "order_amount": 862.17,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 270,
+    "customer_id": 27,
+    "order_amount": 723.51,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 271,
+    "customer_id": 27,
+    "order_amount": 885.94,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 280,
+    "customer_id": 28,
+    "order_amount": 346.77,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 281,
+    "customer_id": 28,
+    "order_amount": 440.42,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 290,
+    "customer_id": 29,
+    "order_amount": 954.28,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 291,
+    "customer_id": 29,
+    "order_amount": 270.76,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 300,
+    "customer_id": 30,
+    "order_amount": 512.6,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 301,
+    "customer_id": 30,
+    "order_amount": 871.81,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 310,
+    "customer_id": 31,
+    "order_amount": 512.59,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 311,
+    "customer_id": 31,
+    "order_amount": 161.31,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 320,
+    "customer_id": 32,
+    "order_amount": 953.96,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 321,
+    "customer_id": 32,
+    "order_amount": 919.31,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 330,
+    "customer_id": 33,
+    "order_amount": 493.72,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 331,
+    "customer_id": 33,
+    "order_amount": 929.81,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 340,
+    "customer_id": 34,
+    "order_amount": 67.35,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 341,
+    "customer_id": 34,
+    "order_amount": 947.48,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 350,
+    "customer_id": 35,
+    "order_amount": 817.86,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 351,
+    "customer_id": 35,
+    "order_amount": 768.18,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 360,
+    "customer_id": 36,
+    "order_amount": 480.53,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 361,
+    "customer_id": 36,
+    "order_amount": 173.48,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 370,
+    "customer_id": 37,
+    "order_amount": 428.91,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 371,
+    "customer_id": 37,
+    "order_amount": 929.62,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 380,
+    "customer_id": 38,
+    "order_amount": 209.14,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 381,
+    "customer_id": 38,
+    "order_amount": 405.0,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 390,
+    "customer_id": 39,
+    "order_amount": 379.69,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 391,
+    "customer_id": 39,
+    "order_amount": 456.97,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 400,
+    "customer_id": 40,
+    "order_amount": 73.39,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 401,
+    "customer_id": 40,
+    "order_amount": 592.43,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 410,
+    "customer_id": 41,
+    "order_amount": 228.02,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 411,
+    "customer_id": 41,
+    "order_amount": 710.76,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 420,
+    "customer_id": 42,
+    "order_amount": 76.73,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 421,
+    "customer_id": 42,
+    "order_amount": 861.04,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 430,
+    "customer_id": 43,
+    "order_amount": 245.62,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 431,
+    "customer_id": 43,
+    "order_amount": 490.56,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 440,
+    "customer_id": 44,
+    "order_amount": 726.12,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 441,
+    "customer_id": 44,
+    "order_amount": 580.45,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 450,
+    "customer_id": 45,
+    "order_amount": 809.42,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 451,
+    "customer_id": 45,
+    "order_amount": 103.38,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 460,
+    "customer_id": 46,
+    "order_amount": 360.75,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 461,
+    "customer_id": 46,
+    "order_amount": 472.35,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 470,
+    "customer_id": 47,
+    "order_amount": 676.63,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 471,
+    "customer_id": 47,
+    "order_amount": 107.43,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 480,
+    "customer_id": 48,
+    "order_amount": 802.59,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 481,
+    "customer_id": 48,
+    "order_amount": 256.17,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 490,
+    "customer_id": 49,
+    "order_amount": 454.13,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 491,
+    "customer_id": 49,
+    "order_amount": 191.65,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 500,
+    "customer_id": 50,
+    "order_amount": 875.74,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 501,
+    "customer_id": 50,
+    "order_amount": 448.7,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 510,
+    "customer_id": 51,
+    "order_amount": 60.08,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 511,
+    "customer_id": 51,
+    "order_amount": 837.67,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 520,
+    "customer_id": 52,
+    "order_amount": 174.65,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 521,
+    "customer_id": 52,
+    "order_amount": 486.54,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 530,
+    "customer_id": 53,
+    "order_amount": 172.99,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 531,
+    "customer_id": 53,
+    "order_amount": 985.46,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 540,
+    "customer_id": 54,
+    "order_amount": 292.4,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 541,
+    "customer_id": 54,
+    "order_amount": 957.74,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 550,
+    "customer_id": 55,
+    "order_amount": 721.22,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 551,
+    "customer_id": 55,
+    "order_amount": 198.0,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 560,
+    "customer_id": 56,
+    "order_amount": 583.39,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 561,
+    "customer_id": 56,
+    "order_amount": 70.35,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 570,
+    "customer_id": 57,
+    "order_amount": 59.64,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 571,
+    "customer_id": 57,
+    "order_amount": 507.82,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 580,
+    "customer_id": 58,
+    "order_amount": 66.31,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 581,
+    "customer_id": 58,
+    "order_amount": 89.31,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 590,
+    "customer_id": 59,
+    "order_amount": 599.08,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 591,
+    "customer_id": 59,
+    "order_amount": 863.2,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 600,
+    "customer_id": 60,
+    "order_amount": 942.18,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 601,
+    "customer_id": 60,
+    "order_amount": 253.75,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 610,
+    "customer_id": 61,
+    "order_amount": 623.19,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 611,
+    "customer_id": 61,
+    "order_amount": 660.8,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 620,
+    "customer_id": 62,
+    "order_amount": 323.21,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 621,
+    "customer_id": 62,
+    "order_amount": 212.22,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 630,
+    "customer_id": 63,
+    "order_amount": 246.3,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 631,
+    "customer_id": 63,
+    "order_amount": 139.57,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 640,
+    "customer_id": 64,
+    "order_amount": 462.65,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 641,
+    "customer_id": 64,
+    "order_amount": 19.22,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 650,
+    "customer_id": 65,
+    "order_amount": 996.14,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 651,
+    "customer_id": 65,
+    "order_amount": 542.26,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 660,
+    "customer_id": 66,
+    "order_amount": 141.13,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 661,
+    "customer_id": 66,
+    "order_amount": 882.06,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 670,
+    "customer_id": 67,
+    "order_amount": 292.14,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 671,
+    "customer_id": 67,
+    "order_amount": 835.41,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 680,
+    "customer_id": 68,
+    "order_amount": 615.56,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 681,
+    "customer_id": 68,
+    "order_amount": 533.65,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 690,
+    "customer_id": 69,
+    "order_amount": 306.38,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 691,
+    "customer_id": 69,
+    "order_amount": 112.55,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 700,
+    "customer_id": 70,
+    "order_amount": 124.27,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 701,
+    "customer_id": 70,
+    "order_amount": 744.99,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 710,
+    "customer_id": 71,
+    "order_amount": 288.94,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 711,
+    "customer_id": 71,
+    "order_amount": 720.44,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 720,
+    "customer_id": 72,
+    "order_amount": 637.9,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 721,
+    "customer_id": 72,
+    "order_amount": 510.35,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 730,
+    "customer_id": 73,
+    "order_amount": 101.38,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 731,
+    "customer_id": 73,
+    "order_amount": 831.05,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 740,
+    "customer_id": 74,
+    "order_amount": 340.22,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 741,
+    "customer_id": 74,
+    "order_amount": 640.74,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 750,
+    "customer_id": 75,
+    "order_amount": 743.82,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 751,
+    "customer_id": 75,
+    "order_amount": 708.61,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 760,
+    "customer_id": 76,
+    "order_amount": 120.76,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 761,
+    "customer_id": 76,
+    "order_amount": 904.89,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 770,
+    "customer_id": 77,
+    "order_amount": 836.25,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 771,
+    "customer_id": 77,
+    "order_amount": 557.0,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 780,
+    "customer_id": 78,
+    "order_amount": 51.41,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 781,
+    "customer_id": 78,
+    "order_amount": 899.99,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 790,
+    "customer_id": 79,
+    "order_amount": 217.98,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 791,
+    "customer_id": 79,
+    "order_amount": 670.26,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 800,
+    "customer_id": 80,
+    "order_amount": 885.29,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 801,
+    "customer_id": 80,
+    "order_amount": 974.1,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 810,
+    "customer_id": 81,
+    "order_amount": 926.51,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 811,
+    "customer_id": 81,
+    "order_amount": 865.96,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 820,
+    "customer_id": 82,
+    "order_amount": 34.54,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 821,
+    "customer_id": 82,
+    "order_amount": 925.24,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 830,
+    "customer_id": 83,
+    "order_amount": 865.42,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 831,
+    "customer_id": 83,
+    "order_amount": 274.14,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 840,
+    "customer_id": 84,
+    "order_amount": 388.72,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 841,
+    "customer_id": 84,
+    "order_amount": 860.01,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 850,
+    "customer_id": 85,
+    "order_amount": 818.42,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 851,
+    "customer_id": 85,
+    "order_amount": 356.16,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 860,
+    "customer_id": 86,
+    "order_amount": 33.43,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 861,
+    "customer_id": 86,
+    "order_amount": 404.48,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 870,
+    "customer_id": 87,
+    "order_amount": 967.22,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 871,
+    "customer_id": 87,
+    "order_amount": 357.63,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 880,
+    "customer_id": 88,
+    "order_amount": 682.72,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 881,
+    "customer_id": 88,
+    "order_amount": 337.84,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 890,
+    "customer_id": 89,
+    "order_amount": 878.27,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 891,
+    "customer_id": 89,
+    "order_amount": 186.78,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 900,
+    "customer_id": 90,
+    "order_amount": 117.32,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 901,
+    "customer_id": 90,
+    "order_amount": 352.23,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 910,
+    "customer_id": 91,
+    "order_amount": 610.15,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 911,
+    "customer_id": 91,
+    "order_amount": 124.49,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 920,
+    "customer_id": 92,
+    "order_amount": 262.18,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 921,
+    "customer_id": 92,
+    "order_amount": 441.7,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 930,
+    "customer_id": 93,
+    "order_amount": 689.99,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 931,
+    "customer_id": 93,
+    "order_amount": 739.67,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 940,
+    "customer_id": 94,
+    "order_amount": 436.98,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 941,
+    "customer_id": 94,
+    "order_amount": 921.56,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 950,
+    "customer_id": 95,
+    "order_amount": 666.75,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 951,
+    "customer_id": 95,
+    "order_amount": 722.56,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 960,
+    "customer_id": 96,
+    "order_amount": 316.19,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 961,
+    "customer_id": 96,
+    "order_amount": 332.92,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 970,
+    "customer_id": 97,
+    "order_amount": 558.87,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 971,
+    "customer_id": 97,
+    "order_amount": 426.24,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 980,
+    "customer_id": 98,
+    "order_amount": 750.65,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 981,
+    "customer_id": 98,
+    "order_amount": 619.36,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 990,
+    "customer_id": 99,
+    "order_amount": 552.46,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 991,
+    "customer_id": 99,
+    "order_amount": 310.84,
+    "order_status": "PENDING",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 1000,
+    "customer_id": 100,
+    "order_amount": 787.9,
+    "order_status": "CANCELLED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  },
+  {
+    "order_id": 1001,
+    "customer_id": 100,
+    "order_amount": 658.16,
+    "order_status": "COMPLETED",
+    "created_at": "2026-11-01T14:37:21.687863+00:00",
+    "updated_at": "2026-11-01T14:37:21.687863+00:00"
+  }
+]

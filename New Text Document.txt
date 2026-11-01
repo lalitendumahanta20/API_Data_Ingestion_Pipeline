@@ -1,0 +1,6 @@
+venv\Scripts\activate - for activate venv
+python -m pip install fastapi "uvicorn[standard]" python-dotenv - for install uvicorn
+python -m uvicorn mock_api.main:app --reload - For running Project
+python -m ingestion.ingest - for ingestion start
+
+
