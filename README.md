@@ -199,7 +199,7 @@ The orders table maintains a relationship with the customers table through `cust
 ### Step 1: Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/lalitendumahanta20/API_Data_Ingestion_Pipeline>
 cd API_Data_Ingestion_Pipeline
 ```
 
